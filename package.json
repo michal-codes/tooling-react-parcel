@@ -19,7 +19,8 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.17.0",
     "parcel-bundler": "^1.12.4",
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "serialize-to-js": "^3.0.1"
   },
   "dependencies": {
     "react": "^16.12.0",
